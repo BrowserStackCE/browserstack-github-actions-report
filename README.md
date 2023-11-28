@@ -1,0 +1,1 @@
+# browserstack-github-actions-report
